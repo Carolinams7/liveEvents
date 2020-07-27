@@ -4,7 +4,7 @@ An application that allows users to search for live events based on geolocation.
 
 > [Demo](https://carolinams7.github.io/liveEvents/)
 
-<img src="https://github.com/Carolinams7/OutLoud/raw/master/public/OutLoudpic.png"/>
+<img src="https://github.com/Carolinams7/liveEvents/raw/master/media/LiveEventspic.png"/>
 
 ## Overview
 
