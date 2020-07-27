@@ -31,8 +31,8 @@ https://lromero5.github.io/liveEvents/
 ## Authors
 
 - **Carolina Szyman** - (github.com/Carolinams7)
-- **Leighton She** - (github.com/)
-- **Leticia Romero** - (github.com/Lromero5)
+- **Leighton Shallenberger** - (github.com/lshallenberger)
+- **Leticia Romero** - (github.com/Lromero5).
 
 
 
