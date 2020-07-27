@@ -2,6 +2,10 @@
 
 An application that allows users to search for live events based on geolocation. 
 
+> [Demo](https://carolinams7.github.io/liveEvents/)
+
+<img src="https://github.com/Carolinams7/OutLoud/raw/master/public/OutLoudpic.png"/>
+
 ## Overview
 
 People that like to go out not always have a plan set to do it, this search engine allows you to search any live events around you based on geolocation.
