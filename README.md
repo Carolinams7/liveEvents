@@ -1,6 +1,6 @@
 # liveEvents
 
-An application that allows users to search for live events based on Geolocation. 
+An application that allows users to search for live events based on geolocation. 
 
 ## Overview
 
@@ -16,23 +16,17 @@ Live version (Github Pages):
 
 https://lromero5.github.io/liveEvents/
 
-From the repo:
-
-1. Clone this project locally
-2. Run
-
 ### Tech/Framework used
 
-- Node and Express web server
-- MongoDB- mongoose
+- Ajax
+- JQuery
 - Bootstrap
 
 ### Dev Dependencies
 
-- [google map API]
-- [Babel]
-- [Nodemailer]
-- [Webpack]
+- [Google maps API]
+- [Ticketmaster API]
+- [Moment.js]
 
 ## Authors
 
