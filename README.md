@@ -10,11 +10,11 @@ People that like to go out not always have a plan set to do it, this search engi
 
 - Search engine using google maps;
 
-### Running this appArtment locally
+### Running this locally
 
 Live version (Github Pages):
 
-https://lromero5.github.io/liveEvents/
+https://carolinams7.github.io/liveEvents/
 
 ### Tech/Framework used
 
