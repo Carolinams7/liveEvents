@@ -71,7 +71,6 @@ function getLocation() {
     }
     }
     
-    
     function initMap(position, json) {
     var mapDiv = document.getElementById('map');
     var map = new google.maps.Map(mapDiv, {
