@@ -18,6 +18,7 @@ function getLocation() {
       x.innerHTML = "Geolocation is not supported by this browser.";
     }
     }
+
     function showPosition(position) {
     var x = document.getElementById("location");
     if(trueFalse === "T") {
@@ -42,7 +43,6 @@ function getLocation() {
     error: function(xhr, status, err) {
             }
     });
-    
     }
     
     function showError(error) {
