@@ -62,7 +62,6 @@ function getLocation() {
     }
     }
     
-    
     function showEvents(json) {
       $("#eventList").empty();
       console.log(json._embedded.events[0].url)
