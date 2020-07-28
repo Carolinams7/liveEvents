@@ -173,3 +173,5 @@ function getLocation() {
     
     getLocation();
     $("#distanceBtn").on("click", showPosition);
+
+
